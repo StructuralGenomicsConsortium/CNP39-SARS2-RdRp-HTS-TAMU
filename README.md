@@ -16,7 +16,7 @@ Chemists involved in this CNP:
 Professor Matthew Todd, University College London. Head of Chemistry Networks at the SGC (medchem) [@mattodd](https://github.com/mattodd)     
 Tim Willson, SGC-UNC (MedChem Core) [@tmw20653](https://github.com/tmw20653)  
 Peter Brown, Probe Guru [@toluene44](https://github.com/toluene44)  
-Jim Saccitini, TAMU  
+Jim Sacchettini, TAMU [@Jim](https://bcbp.tamu.edu/people/sacchettini-james/)  
 Anwar Hossain, University of North Carolina [@ahsgc](https://github.com/ahsgc)  
 
 
